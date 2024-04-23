@@ -1,0 +1,54 @@
+
+#seccion1 
+h1 {
+
+    color:rgb(29, 43, 43);
+    font-size: 50px;
+    background-color: rgb(157, 147, 147);
+    padding: 80px;
+    border-radius: 10px;
+    margin: 20px;
+    img{
+       
+        padding: 40px;
+        margin: 40px;
+        border-radius: 10%;
+        border-color: blue
+            
+        }
+    
+   
+    
+}
+
+#seccion2 
+table {
+    color: rgb(255, 174, 0);
+    font-size: 20px; 
+    background-color: rgb(101, 101, 95);
+    margin: 0px;}
+    img{
+        width: 200;
+        height: 200;
+        padding: 40px;
+        margin: 40px;
+        border-radius: 10%;
+        border-color: blue
+            
+        } 
+ 
+
+#seccion3  {
+   
+    color: aqua;
+    font-size: 20px; 
+    background-color: rgb(101, 101, 95);
+    margin: 0px;
+    border-radius: 5px;
+    margin:20px;
+    padding: 10px;
+   
+   
+
+
+}
